@@ -1,2 +1,2 @@
 #!/bin/bash
-mv /*[A-Z]* /tmp/u
+find -name '[A-Z]*' -exec mv {} ~/path/to/tmp/u/{} \
