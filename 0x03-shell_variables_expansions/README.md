@@ -1,2 +1,1 @@
-#!/bin/bash
-This is ALX Software Engineering Course
+it is getting better with ALX SE
